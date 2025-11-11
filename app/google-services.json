@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21503623379",
+    "project_id": "kttalk-b7d9a",
+    "storage_bucket": "kttalk-b7d9a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21503623379:android:62ce4027dbd8b73094d426",
+        "android_client_info": {
+          "package_name": "br.edu.utfpr.cc.setac.kt.talk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEcYSXosQ4EgKonG6o19vhSVXpNh-x4c0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
